@@ -1,2 +1,2 @@
-# CryptoAnalysis_of_a_Vigenere_cypher
+# CryptoAnalysis of a Vigenere cypher
 We try to decypher a message that we knew was encrypted using the Vigenere cypher
