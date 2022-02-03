@@ -5,7 +5,7 @@
 
 ## Introduction ##
 
-In this [notebook](https://github.com/KuZa91/CryptoAnalysis_of_a_Vigenere_cipher/blob/main/VigenereCipherCryptoanalysis.ipynb), we are gonna decypher a message that we know was encrypted by using a [Vigenere cipher](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher). The message that are going to consider is as follows : \
+In this [notebook](https://github.com/KuZa91/CryptoAnalysis_of_a_Vigenere_cipher/blob/main/VigenereCipherCryptoanalysis.ipynb), we are gonna decipher a message that we know was encrypted by using a [Vigenere cipher](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher). The message that are going to consider is as follows : \
 \
 _"TUIRDSFOGKYLBVLOORXXRVDPL \
   SHRSBPOCBTTLQPGAOMHMSVONM \
