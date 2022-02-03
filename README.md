@@ -25,7 +25,7 @@ _"TUIRDSFOGKYLBVLOORXXRVDPL \
   ERTBBLLHPKYICGVEWCRKAFYSH \
   WQCCMHHGINDHBIFOYSBXNWHWX \
   CUIHAIQUDYTKSRHUQHTKRHJDE"_ \
-\  
+  
 We are gonna start our analysis by trying to find the lenght of the key, which is probably the most important step in order to properly solve a Vigenere Cipher.
 Knowing the lenght of the key, allow us to decompose the original encoded text in a subset of $n$ messages encoded trough a common [Caesar Cipher](https://en.wikipedia.org/wiki/Caesar_cipher), where $n$ is equal to the lenght of the key.
 The Caesar ciphers, can be easily decrypted trough [brute force](https://en.wikipedia.org/wiki/Brute-force_attack), as each subset would only have 26 possible values for the key value, however, in our analysis we are gonna implement a [frequentist analysis](https://en.wikipedia.org/wiki/Frequentist_inference) in order to properly estimate the value of the key for the various subsets.
